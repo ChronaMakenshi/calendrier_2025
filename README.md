@@ -1,5 +1,4 @@
 # calendrier_2025
-<<<<<<< HEAD
 
 ## Description
 
