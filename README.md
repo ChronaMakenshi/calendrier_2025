@@ -1,4 +1,5 @@
 # calendrier_2025
+<<<<<<< HEAD
 
 ## Description
 
@@ -77,3 +78,6 @@ Une application Symfony basée sur la version 7.2.2, utilisant les meilleures pr
 5. Ouvrez une Pull Request.
 
 
+=======
+Une application Symfony basée sur la version 7.2.2, utilisant les meilleures pratiques modernes avec PHP 8.2 et CSS
+>>>>>>> 4d791515181bbf24f84cbf2365b08bbc6caeec0b
